@@ -2,4 +2,4 @@
 Modules used 
 ----
 [react-grid-system](https://jsxmachina.github.io/react-grid-system/)
-for layout and responsive design combined with inline CSS
+for layout and responsive design combined with CSS
